@@ -1,0 +1,20 @@
+{
+  "name": "node-api-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "dependencies": {
+    "body-parser": "~1.18.2",
+    "express": "~4.16.3",
+    "mongoose": "~5.0.18",
+    "request": "~2.85.0"
+  },
+  "author": "Roberto Withowsky",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.17.4"
+  }
+}
